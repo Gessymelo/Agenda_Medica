@@ -9,10 +9,10 @@ Este projeto visa facilitar o agendamento de consultas médicas, proporcionando 
 ### 👥 Equipe de Desenvolvimento
 - **Professor Orientador:** [Rodrigo Barbosa](https://github.com/rodrigobarbosa)
 - **Colaboradores:**
-  - Nome do Integrante: [Gessica Melo]([https://github.com/Gessymelo])
-  - Nome do Integrante: [Alfredo Guilherme]([(https://github.com/alfredogog)])
-  - Nome do Integrante: [Ricardo Amaral]([https://github.com/RicardoAPAmaral])
-  - Nome do Integrante: [Marcela Araújo ]([https://github.com/Marcella-acrg])
+  - Nome do Integrante: [Gessica Melo](https://github.com/Gessymelo)
+  - Nome do Integrante: [Alfredo Guilherme](https://github.com/alfredogog)
+  - Nome do Integrante: [Ricardo Amaral](https://github.com/RicardoAPAmaral)
+  - Nome do Integrante: [Marcela Araújo ](https://github.com/Marcella-acrg)
 
 ### 🛠️ Tecnologias Utilizadas
 - **Front-End:** [ React Native]

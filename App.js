@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import Account from './src/screens/account/Account'
+import Main from './src/screens/main/Main'
 
 const App = () => {
   return (
-    <Account/>
+    <Main />
   )
 }
 

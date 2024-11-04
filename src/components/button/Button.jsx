@@ -10,7 +10,8 @@ const Button = (props) => {
   }
 
   return(
-    <TouchableOpacity onPress={TesteClick} style={styles.btn}>
+    <TouchableOpacity style={[styles.btn, props.theme == "danger" ? styles.danger : styles.primary]}
+      onPress={TesteClick} >
       
         <Text style={styles.text}>{props.text}</Text>
     </TouchableOpacity>

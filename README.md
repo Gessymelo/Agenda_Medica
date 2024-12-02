@@ -15,15 +15,22 @@ Este projeto visa facilitar o agendamento de consultas médicas, proporcionando 
   - Nome do Integrante: [Marcela Araújo ](https://github.com/Marcella-acrg)
 
 ### 🛠️ Tecnologias Utilizadas
-- **Front-End:** [ React Native]
+- **Front-End:** React Native (para o desenvolvimento do aplicativo móvel)
+- **Back-End:**: Express (para a API), SQLite (para o banco de dados)
+
 
 
 ### 🚧 Funcionalidades em Desenvolvimento
-- Cadastro de pacientes 
+- Cadastro de pacientes
 - Agendamento e cancelamento de consultas
+- Gestão de perfis de usuários e médicos
+- Sistema de autenticação e gerenciamento de sessões com JWT
+- Tela de agendamentos futuros e passados
 
 
 ### 📈 Status
-O projeto está em **desenvolvimento ativo** e novas funcionalidades estão sendo implementadas semanalmente!
+
+O projeto está em **desenvolvimento ativo**, com novas funcionalidades sendo implementadas semanalmente. Atualmente, estamos focados no aprimoramento da experiência do usuário e na integração com o back-end para garantir um fluxo de dados eficiente e seguro.
+
 
 
